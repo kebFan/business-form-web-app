@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+<link href='https://fonts.googleapis.com/css?family=Baloo Da' rel='stylesheet'>
+<style>
+
+body {
+     background: 
+  url(https://www194.lunapic.com/do-not-link-here-use-hosting-instead/150863111240489?2511023297);
+ 
+     background-size: 850px 1650px;
+    background-repeat: no-repeat;
+    font-family: 'Baloo Da';font-size: 22px;
+}
+
+</style>
+        <meta charset="UTF-8">
+        <title>Small Business</title>
+   </head>
+   <center><h1> OrdrMe</h1><center>
+   <body  style = "background-color:#3AAFA9;">
+   <div>
+       <!--
+     <p>Customer name<p>
+       <input type="text" class="customer_name" placeholder="Add description">
+     </div>
+<div>
+-->
+       
+     <div>
+       <center><p style = "color: white">Item Description:<p></center>
+         <center><input type="text" class="descrip_string" placeholder="Add description"></center>
+       </div>
+       
+       <center><p style = "color: white">Brand:<p></center>
+         <center><input type="text" class="brand_string" placeholder="Add description">		  </center>
+       </div>
+       <center><p style = "color: white">Size:<p></center>
+        <center> <input type="text" class="size_string" placeholder="Add description">        </center>
+       </div>
+       <center><p style = "color: white">Color:<p></center>
+         <center><input type="text" class="color_string" placeholder="Add description">        </center>
+       </div>
+       <p style = "color: white">SKU:<p>
+         <input type="text" class="sku_string" placeholder="Add description">
+         <p style = "color: white" >Price:<p>
+         <input type="text" class="price_string" placeholder="Add description">
+         <p style = "color: white">Misc. Attributes:<p>
+         <input type="text" class="misc_string" placeholder="Add description">
+     </div>
+     <center> <p style = "color: white">Additional Notes<p></center>
+     <textarea name="notes" rows="10" cols="30">
+      
+	</textarea>
+    </div>
+       <center><button class = "send_Button">Send To Email</button></center>
+
+     </div>
+
+
+     <script src="app.js"></script>
+  </body>
+</html>
