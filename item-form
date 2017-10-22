@@ -53,7 +53,7 @@ body {
       
 	</textarea>
     </div>
-       <center><button class = "send_Button">Send To Email</button></center>
+       <center><button class = "send_Button">Complete</button></center>
 
      </div>
 
