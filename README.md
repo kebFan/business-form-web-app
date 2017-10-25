@@ -1,2 +1,2 @@
 # business-form-web-app
-A web app to made at hackOhio
+A web app called ORDME made at hackOhio.
